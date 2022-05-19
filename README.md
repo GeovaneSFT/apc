@@ -3,7 +3,7 @@ Repositório para o projeto da disciplina de APC da UnB.
 
 Obs: Baixar o GIF do wallpaper no link: https://drive.google.com/file/d/1hHZE65-Oe5HoukjTjAJmztqNfekq0X6l/view?usp=sharing, trocar o nome para 'background.png', e colocar na pasta "assets", pois o GitHub não aguenta 25mb+.
 
-O objetivo do projeto é analisar uma base de dados sobre vendas de jogos, e analisar as tendências desse mercado, utilizando as bibliotecas Dash e Plotly, e a linguagem Python.
+O objetivo do projeto é analisar uma base de dados sobre vendas de jogos, e analisar as tendências desse mercado, utilizando a biblioteca Plotly, o framework Dash e a linguagem Python.
 
 Para rodar, é necessário instalar as seguintes dependências:
 - pip install dash
