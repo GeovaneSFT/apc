@@ -1,4 +1,7 @@
 # APC
+
+(Projeto feito no início da graduação)
+
 Repositório para o projeto da disciplina de APC da UnB. 
 
 Obs: Baixar o GIF do wallpaper no link: https://drive.google.com/file/d/1hHZE65-Oe5HoukjTjAJmztqNfekq0X6l/view?usp=sharing, trocar o nome para 'background.png', e colocar na pasta "assets", pois o GitHub não aguenta 25mb+.
